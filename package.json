@@ -1,0 +1,21 @@
+{
+  "name": "janet-bot",
+  "version": "0.0.1",
+  "description": "A Discord.js bot for your Ragnarok Online server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Discord.js",
+    "bot",
+    "discord",
+    "bot",
+    "Discord",
+    "Ragnarok",
+    "Online",
+    "RO"
+  ],
+  "author": "Nathan Beck <njosefbeck@gmail.com> (https://njosefbeck.com)",
+  "license": "MIT"
+}
